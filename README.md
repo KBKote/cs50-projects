@@ -6,9 +6,9 @@ It reflects my learning process as I work through the problem sets and core conc
 ## Structure
 The repository is organized by week and topic, following the CS50 curriculum:
 
-- `week1-c/` — C fundamentals (Mario, Cash, Readability, etc.)
-- `week2-arrays/`
-- `week3-algorithms/`
+- `week1/` — C fundamentals (Mario, Cash, Readability, etc.)
+- `week2/`
+- `week3/`
 - *(additional weeks added as completed)*
 
 Each folder contains the source code for that problem set and may include brief notes.
