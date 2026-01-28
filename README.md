@@ -14,9 +14,16 @@ The repository is organized by week and topic, following the CS50 curriculum:
 
 Each folder contains the source code for that problem set and may include brief notes.
 
-## How to Run
-Most programs can be compiled and run using CS50’s tools. Example:
+---
 
-```bash
-make readability
-./readability
+## How to Run
+
+These programs were written and tested using **CS50’s development environment** (CS50 Codespace), which includes the required CS50 library (`cs50.h`).
+
+### Requirements
+To run the programs, you will need:
+- A C compiler (`clang` or `gcc`)
+- The CS50 library  
+- Or access to **CS50 Codespace** (recommended)
+
+Using CS50 Codespace is the easiest option, as no additional setup is required.
